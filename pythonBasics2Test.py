@@ -22,7 +22,7 @@ def main():
         test(pythonBasics2.count_threes(2), 0)
         test(pythonBasics2.count_threes(3), 1)
         test(pythonBasics2.count_threes(6), 2)
-        test(pythonBasics2.count_threes(24), 72)
+        test(pythonBasics2.count_threes(24), 8)
 
     if check_longest_consecutive_repeating_charater:
         print("---------------------------------------------------------")
