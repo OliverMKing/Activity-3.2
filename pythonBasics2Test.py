@@ -31,7 +31,7 @@ def main():
         test(pythonBasics2.longest_consecutive_repeating_charater('abba'), 'b') 
         test(pythonBasics2.longest_consecutive_repeating_charater('caaddda'), 'd') 
         test(pythonBasics2.longest_consecutive_repeating_charater('aaaffftttt'), 't') 
-        test(pythonBasics2.longest_consecutive_repeating_charater('aaababbaccca'), 'c') 
+        test(pythonBasics2.longest_consecutive_repeating_charater('aaababbacccca'), 'c') 
         test(pythonBasics2.longest_consecutive_repeating_charater('ddabab'), 'd') 
         test(pythonBasics2.longest_consecutive_repeating_charater('caac'), 'a') 
 
