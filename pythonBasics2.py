@@ -8,7 +8,7 @@
 # Part A. fizz_buzz 
 # Define a function count_threes(n) that takes an int and 
 # returns the number of multiples of 3 in the range from 0
-# to n.
+# to n (including n).
 
 def count_threes(n):
   # YOUR CODE HERE
