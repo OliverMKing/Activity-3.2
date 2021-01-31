@@ -5,7 +5,7 @@
 # which is just a placeholder for your code.
 
 
-# Part A. fizz_buzz 
+# Part A. count_threes 
 # Define a function count_threes(n) that takes an int and 
 # returns the number of multiples of 3 in the range from 0
 # to n (including n).
